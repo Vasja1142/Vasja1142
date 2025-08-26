@@ -10,7 +10,7 @@
 *   **ML/Data:** PyTorch, Scikit-learn, Pandas, Numpy, OpenCV, CVAT, Jupyter Notebook, Power BI, Mlflow, Optuna
 *   **Инструменты:** Visual Studio, VS Code, IntelliJ IDEA, pgAdmin, Docker, Git, WSL
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,python,postgres,pytorch,vscode,visualstudio)](https://skillicons.dev)
+![alt text](https://skillicons.dev/icons?i=cs,cpp,java,python,postgres,pytorch,vscode,visualstudio,idea,docker,git,sklearn,opencv)
 
 ---
 
