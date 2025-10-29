@@ -44,7 +44,6 @@
 ### 📫 Как связаться:
 
 *   📧 Email: [vasja11422@gmail.com](mailto:vasja11422@gmail.com)
-*   🧑‍💻 Kaggle: https://www.kaggle.com/vasiliygordeev
 ---
 
 ### 📊 Моя статистика на GitHub:
